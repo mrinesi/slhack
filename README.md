@@ -1,0 +1,2 @@
+# slhack
+Slack for Hackers
